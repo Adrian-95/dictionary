@@ -1,1 +1,1 @@
-# Interactive Dictionary
+Simple interactive dictionary written in Python.
